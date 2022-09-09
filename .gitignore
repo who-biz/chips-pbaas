@@ -7,6 +7,8 @@ src/zcash-gtest
 src/zcash-tx
 src/test/test_bitcoin
 
+.conf
+
 *zcashTest.pk
 *zcashTest.vk
 
